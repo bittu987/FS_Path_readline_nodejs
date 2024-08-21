@@ -1,0 +1,11 @@
+{
+  "name": "fs-module",
+  "version": "1.0.0",
+  "description": "Known about FS,Path and readline Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bittu",
+  "license": "ISC"
+}
